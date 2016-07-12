@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Dir.png</file>
+        <file>images/GoBack.png</file>
+        <file>images/OpenDir.png</file>
+        <file>images/Refresh.png</file>
+        <file>images/Segd1.png</file>
+        <file>images/Segd2.png</file>
+        <file>images/SeisFile.png</file>
+        <file>images/Tape.png</file>
+        <file>images/ZoomP.png</file>
+        <file>images/ZoomA.png</file>
+        <file>images/ZoomI.png</file>
+        <file>images/ZoomO.png</file>
+        <file>images/ZoomW.png</file>
+        <file>images/Procp.png</file>
+        <file>images/ChkAll.png</file>
+        <file>images/ChkNon.png</file>
+        <file>images/GoBottom.png</file>
+        <file>images/GoTop.png</file>
+        <file>images/Zh.png</file>
+        <file>images/Zv.png</file>
+        <file>images/Filt.png</file>
+        <file>images/Segb2.png</file>
+        <file>images/Unk2.png</file>
+        <file>images/ZoomWCurs.xpm</file>
+        <file>images/SegDSee.png</file>
+        <file>images/Segb1.png</file>
+        <file>images/Unk1.png</file>
+        <file>images/Wait1.png</file>
+        <file>images/Disf.png</file>
+        <file>images/Misf.png</file>
+    </qresource>
+</RCC>
